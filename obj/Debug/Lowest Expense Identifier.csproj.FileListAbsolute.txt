@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Lowest Expense Identifier\Lowest Expense Identifier\bin\Debug\Lowest Expense Identifier.exe.config
+C:\Users\DELL\source\repos\Lowest Expense Identifier\Lowest Expense Identifier\bin\Debug\Lowest Expense Identifier.exe
+C:\Users\DELL\source\repos\Lowest Expense Identifier\Lowest Expense Identifier\bin\Debug\Lowest Expense Identifier.pdb
+C:\Users\DELL\source\repos\Lowest Expense Identifier\Lowest Expense Identifier\obj\Debug\Lowest Expense Identifier.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Lowest Expense Identifier\Lowest Expense Identifier\obj\Debug\Lowest Expense Identifier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Lowest Expense Identifier\Lowest Expense Identifier\obj\Debug\Lowest Expense Identifier.exe
+C:\Users\DELL\source\repos\Lowest Expense Identifier\Lowest Expense Identifier\obj\Debug\Lowest Expense Identifier.pdb
